@@ -3,7 +3,7 @@
     "name": "firstProjectOnNative",
     "slug": "firstProjectOnNative",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -19,7 +19,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/BG.png",
         "backgroundColor": "#ffffff"
       }
     },
